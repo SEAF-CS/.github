@@ -1,14 +1,3 @@
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 # Cockburn SEAF :dolphin: :fish: :ocean:
 
 ### Shared Environmental Analytics Facility for Cockburn Sound (Western Australia)
@@ -17,6 +6,7 @@
 --
 ### Short Summary
 
+<a href="url"><img src="https://github.com/SEAF-CS/.github/blob/main/profile/seaf.jpg" align="right" width="250" ></a>
 The Cockburn SEAF initiative started as part of the [WAMSI-Westport Marine Science Program (WWMSP)](https://wamsi.org.au/projects/cockburn-sound/) with the aim to develop a coordinated platform for the integration of environmental data and modelling work relevant to studying the Cockburn Sound ecosystem (Perth, Western Australia). This was developed to support analytics activities of the WWMSP, and to build a repository of tools and datasets able to be used into the future by scientists, government and consultants. 
 
 Data-sets within the platform range from high-frequency current and wave data, to historical water quality data from government and industry led projects, and also a curation of satellite data specific to the region. The core of the platform is an integrated hydrodynamic-ecological model termed "CSIEM".
@@ -28,3 +18,8 @@ Users of the platform can gain access to the models and simulate any years betwe
 [![QGIS Badge](https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white)](https://ronygolderku.netlify.app/)
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://seaf-cs.github.io/csiem-science/)
 -
+
+
+<br>
+
+[<img src="https://github.com/SEAF-CS/.github/blob/main/profile/wamsi.png" alt="WAMSI" width="200"/>](https://wamsi.org.au/projects/cockburn-sound/)
