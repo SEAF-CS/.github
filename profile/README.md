@@ -14,11 +14,11 @@ Data-sets within the platform range from high-frequency current and wave data, t
 Users of the platform can gain access to the models and simulate any years between 1993 and 2024. To enable application of the model for port design scenarios and environmental impact assessment, these repositories can be used with the associated "SEAF platform" for using the data and modelling tools has been developed within the cloud environment.
 
 ## Tools we use ↓
-[![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://ronygolderku.netlify.app/)
+[![Python Badge](https://img.shields.io/badge/Python-306998.svg?&style=for-the-badge&logo=Python&logoColor=white)](https://github.com/SEAF-CS/csiem_regional_dashboard)
+[![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/SEAF-CS/sentinel2_ridgeplot)
 [![QGIS Badge](https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white)](https://ronygolderku.netlify.app/)
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://seaf-cs.github.io/csiem-science/)
--
-
+[![TFV Badge](https://img.shields.io/badge/TUFLOWFV-AED-87CEEB.svg?&style=for-the-badge&logo=Drupal&logoColor=white)](https://www.tuflow.com/products/tuflow-fv/)
 
 <br>
 
