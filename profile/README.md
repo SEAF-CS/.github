@@ -14,6 +14,7 @@ Data-sets within the platform range from high-frequency current and wave data, t
 Users of the platform can gain access to the models and simulate any years between 1993 and 2024. To enable application of the model for port design scenarios and environmental impact assessment, these repositories can be used with the associated "SEAF platform" for using the data and modelling tools has been developed within the cloud environment.
 
 For further information, please refer to our evolving [CSIEM manual](https://seaf-cs.github.io/csiem-science/) which describes the system.
+<br>
 
 ## Tools we use ↓
 [![Python Badge](https://img.shields.io/badge/Python-306998.svg?&style=for-the-badge&logo=Python&logoColor=white)](https://github.com/SEAF-CS/csiem_regional_dashboard)
@@ -25,8 +26,7 @@ For further information, please refer to our evolving [CSIEM manual](https://sea
 
 
 [![TFV Badge](https://img.shields.io/badge/TUFLOWFV-AED-87CEEB.svg?&style=for-the-badge&logo=Drupal&logoColor=white)](https://www.tuflow.com/products/tuflow-fv/)
-[![Matlab Badge](https://img.shields.io/badge/Databricks-444444.svg?&style=for-the-badge&logo=Databricks&logoColor=red))](https://adb-959691572055978.18.azuredatabricks.net/login.html?o=959691572055978&tuuid=c3c9958b-a415-47ee-be87-1d91077a834e)
-
+[![Databricks Badge](https://img.shields.io/badge/Databricks-444444.svg?&style=for-the-badge&logo=Databricks&logoColor=red)](https://adb-959691572055978.18.azuredatabricks.net/login.html?o=959691572055978&tuuid=c3c9958b-a415-47ee-be87-1d91077a834e)
 <br>
 
 ## Quick links ↓
