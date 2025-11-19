@@ -25,7 +25,7 @@ For further information, please refer to our evolving [CSIEM manual](https://sea
 
 
 [![TFV Badge](https://img.shields.io/badge/TUFLOWFV-AED-87CEEB.svg?&style=for-the-badge&logo=Drupal&logoColor=white)](https://www.tuflow.com/products/tuflow-fv/)
-[![Matlab Badge](https://img.shields.io/badge/Databricks-444444.svg?&style=for-the-badge&logo=Databricks&logoColor=white))](https://adb-959691572055978.18.azuredatabricks.net/login.html?o=959691572055978&tuuid=c3c9958b-a415-47ee-be87-1d91077a834e)
+[![Matlab Badge](https://img.shields.io/badge/Databricks-444444.svg?&style=for-the-badge&logo=Databricks&logoColor=red))](https://adb-959691572055978.18.azuredatabricks.net/login.html?o=959691572055978&tuuid=c3c9958b-a415-47ee-be87-1d91077a834e)
 
 <br>
 
