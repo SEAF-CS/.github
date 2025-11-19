@@ -36,8 +36,8 @@ For further information, please refer to our evolving [CSIEM manual](https://sea
 [CSIEM data wiki](https://github.com/SEAF-CS/csiem-data/wiki)  <br>
 [CSIEM MARVL Viewer](https://csiem-mv.seaf.org.au)  <br>
 <br>
-[CSIEM Regional data explorer](https://csiemdash-sat.azurewebsites.net) <br>
-[CSIEM Sentinel-2 explorer](https://csiemdash-leaflet.azurewebsites.net/) and  [CSIEM Sentinel-2 documentation](https://sentinel2-water-quality.readthedocs.io) <br>
+[CSIEM Regional data explorer](https://csiemdash-sat.seaf.org.au) <br>
+[CSIEM Sentinel-2 explorer](https://csiemdash-leaflet.seaf.org.au) and  [CSIEM Sentinel-2 documentation](https://sentinel2-water-quality.readthedocs.io) <br>
 <br>
 [SEAF-CS Sentient Hubs domain](https://seaf-cs.sentient-portal.com)  (login required) <br>
 [SEAF-CS Databricks domain](https://adb-959691572055978.18.azuredatabricks.net/login.html?o=959691572055978&tuuid=c3c9958b-a415-47ee-be87-1d91077a834e)  (login required) <br>
